@@ -1,0 +1,9 @@
+#imgLogo {
+    width: 60%;    
+    /*border: 1px solid black;*/
+}
+
+#divLogo {
+    text-align: center;
+    width: 100%;
+}
